@@ -34,5 +34,6 @@ Actionable Business Insights - Helps in identifying growth opportunities and per
  Enables data-driven strategic planning
 
  6. Screenshots/ Demos
+https://github.com/Roshani021/Blink-It-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
    
